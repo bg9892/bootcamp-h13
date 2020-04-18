@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstname": "Bob",
+    "lastname": "Vance",
+    "title": "Maintenance",
+    "salary": 72000
+  },
+  {
+    "id": 2,
+    "firstname": "Michael",
+    "lastname": "Scott",
+    "title": "Manager",
+    "salary": 125000
+  },
+  {
+    "id": 3,
+    "firstname": "Jim",
+    "lastname": "Halpurt",
+    "title": "Sales",
+    "salary": 60000
+  }
+]
