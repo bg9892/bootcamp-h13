@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Table key={employees.id} employees={employees} />
+      {/* <Table key={employees.id} employees={employees} /> */}
     </div>
   );
 }
