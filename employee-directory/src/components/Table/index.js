@@ -13,7 +13,12 @@ function Table(props) {
           <th scope="col">Salary</th>
         </tr>
       </thead>
-      <TableBody key={props.employees.id} employees={props.employees} title={props.title} handleFormSubmit={props.handleFormSubmit} />
+      <TableBody
+        key={props.employees.id}
+        employees={props.employees}
+        title={props.title}
+        sort={props.sort}
+        sortClicked={props.sortClicked} />
     </table>
   );
 }
