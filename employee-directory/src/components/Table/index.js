@@ -3,7 +3,7 @@ import TableBody from "../TableBody";
 
 function Table(props) {
   return (
-    <table class="table table-striped table-dark">
+    <table className="table table-striped table-dark">
       <thead>
         <tr>
           <th scope="col">#</th>
