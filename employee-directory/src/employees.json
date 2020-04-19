@@ -1,23 +1,72 @@
 [
   {
     "id": 1,
-    "firstname": "Bob",
-    "lastname": "Vance",
-    "title": "Maintenance",
-    "salary": 72000
-  },
-  {
-    "id": 2,
     "firstname": "Michael",
     "lastname": "Scott",
     "title": "Manager",
-    "salary": 125000
+    "salary": 82000
+  },
+  {
+    "id": 2,
+    "firstname": "Creed",
+    "lastname": "Bratton",
+    "title": "Sales",
+    "salary": 35000
   },
   {
     "id": 3,
     "firstname": "Jim",
-    "lastname": "Halpurt",
+    "lastname": "Halpert",
     "title": "Sales",
     "salary": 60000
+  },
+  {
+    "id": 4,
+    "firstname": "Dwight",
+    "lastname": "Schrute",
+    "title": "Assistant Manager",
+    "salary": 75000
+  },
+  {
+    "id": 5,
+    "firstname": "Pam",
+    "lastname": "Beesly",
+    "title": "Receptionist",
+    "salary": 25000
+  },
+  {
+    "id": 6,
+    "firstname": "Andy",
+    "lastname": "Bernard",
+    "title": "Sales",
+    "salary": 55000
+  },
+  {
+    "id": 7,
+    "firstname": "Stanley",
+    "lastname": "Hudson",
+    "title": "Sales",
+    "salary": 57000
+  },
+  {
+    "id": 8,
+    "firstname": "Kevin",
+    "lastname": "Malone",
+    "title": "Accountant",
+    "salary": 36000
+  },
+  {
+    "id": 9,
+    "firstname": "Angela",
+    "lastname": "Martin",
+    "title": "Accountant",
+    "salary": 62000
+  },
+  {
+    "id": 10,
+    "firstname": "Oscar",
+    "lastname": "Martinez",
+    "title": "Accountant",
+    "salary": 59000
   }
 ]
